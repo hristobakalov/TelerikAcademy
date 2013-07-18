@@ -1,0 +1,9 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\09. SequenceOfFibonnaci\bin\Debug\_09.SequenceOfFibonnaci.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\09. SequenceOfFibonnaci\bin\Debug\_09.SequenceOfFibonnaci.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\09. SequenceOfFibonnaci\bin\Debug\_09.SequenceOfFibonnaci.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\09. SequenceOfFibonnaci\obj\Debug\_09.SequenceOfFibonnaci.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\09. SequenceOfFibonnaci\obj\Debug\_09.SequenceOfFibonnaci.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\09. SequenceOfFibonnaci\obj\Debug\09. SequenceOfFibonnaci.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\4. Console Input Output\09. SequenceOfFibonnaci\bin\Debug\_09.SequenceOfFibonnaci.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\4. Console Input Output\09. SequenceOfFibonnaci\obj\Debug\_09.SequenceOfFibonnaci.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\4. Console Input Output\09. SequenceOfFibonnaci\obj\Debug\_09.SequenceOfFibonnaci.pdb

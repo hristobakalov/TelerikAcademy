@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\10. CalculateSumFloat\bin\Debug\_10.CalculateSumFloat.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\10. CalculateSumFloat\bin\Debug\_10.CalculateSumFloat.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\10. CalculateSumFloat\bin\Debug\_10.CalculateSumFloat.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\10. CalculateSumFloat\obj\Debug\_10.CalculateSumFloat.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\10. CalculateSumFloat\obj\Debug\_10.CalculateSumFloat.pdb

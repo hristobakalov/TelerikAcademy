@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\02. PerimeterAndAreaOfCircle\bin\Debug\_02.PerimeterAndAreaOfCircle.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\02. PerimeterAndAreaOfCircle\bin\Debug\_02.PerimeterAndAreaOfCircle.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\02. PerimeterAndAreaOfCircle\bin\Debug\_02.PerimeterAndAreaOfCircle.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\02. PerimeterAndAreaOfCircle\obj\Debug\_02.PerimeterAndAreaOfCircle.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\02. PerimeterAndAreaOfCircle\obj\Debug\_02.PerimeterAndAreaOfCircle.pdb

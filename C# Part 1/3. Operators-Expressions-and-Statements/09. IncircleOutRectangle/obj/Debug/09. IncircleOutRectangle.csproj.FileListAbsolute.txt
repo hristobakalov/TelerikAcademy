@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\09. IncircleOutRectangle\bin\Debug\_09.IncircleOutRectangle.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\09. IncircleOutRectangle\bin\Debug\_09.IncircleOutRectangle.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\09. IncircleOutRectangle\bin\Debug\_09.IncircleOutRectangle.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\09. IncircleOutRectangle\obj\Debug\09. IncircleOutRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\09. IncircleOutRectangle\obj\Debug\_09.IncircleOutRectangle.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\09. IncircleOutRectangle\obj\Debug\_09.IncircleOutRectangle.pdb

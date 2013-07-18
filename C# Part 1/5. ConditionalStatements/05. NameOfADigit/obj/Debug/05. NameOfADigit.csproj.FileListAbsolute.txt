@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\05. NameOfADigit\bin\Debug\_05.NameOfADigit.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\05. NameOfADigit\bin\Debug\_05.NameOfADigit.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\05. NameOfADigit\bin\Debug\_05.NameOfADigit.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\05. NameOfADigit\obj\Debug\_05.NameOfADigit.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\05. NameOfADigit\obj\Debug\_05.NameOfADigit.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\9. PrintMembersOfASequence\bin\Debug\_9.PrintMembersOfASequence.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\9. PrintMembersOfASequence\bin\Debug\_9.PrintMembersOfASequence.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\9. PrintMembersOfASequence\bin\Debug\_9.PrintMembersOfASequence.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\9. PrintMembersOfASequence\obj\Debug\_9.PrintMembersOfASequence.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\9. PrintMembersOfASequence\obj\Debug\_9.PrintMembersOfASequence.pdb

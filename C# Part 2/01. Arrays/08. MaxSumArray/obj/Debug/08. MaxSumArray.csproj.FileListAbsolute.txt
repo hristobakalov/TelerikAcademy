@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\08. MaxSumArray\bin\Debug\_08.MaxSumArray.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\08. MaxSumArray\bin\Debug\_08.MaxSumArray.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\08. MaxSumArray\bin\Debug\_08.MaxSumArray.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\08. MaxSumArray\obj\Debug\08. MaxSumArray.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\08. MaxSumArray\obj\Debug\_08.MaxSumArray.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\08. MaxSumArray\obj\Debug\_08.MaxSumArray.pdb

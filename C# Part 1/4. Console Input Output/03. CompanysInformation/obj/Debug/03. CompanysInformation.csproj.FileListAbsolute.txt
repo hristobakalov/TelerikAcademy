@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\03. CompanysInformation\bin\Debug\_03.CompanysInformation.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\03. CompanysInformation\obj\Debug\03. CompanysInformation.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\03. CompanysInformation\bin\Debug\_03.CompanysInformation.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\03. CompanysInformation\bin\Debug\_03.CompanysInformation.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\03. CompanysInformation\obj\Debug\_03.CompanysInformation.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\03. CompanysInformation\obj\Debug\_03.CompanysInformation.pdb

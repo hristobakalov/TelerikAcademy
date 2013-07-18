@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\02. SignOfThreeNumbers\bin\Debug\_02.SignOfThreeNumbers.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\02. SignOfThreeNumbers\bin\Debug\_02.SignOfThreeNumbers.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\02. SignOfThreeNumbers\bin\Debug\_02.SignOfThreeNumbers.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\02. SignOfThreeNumbers\obj\Debug\_02.SignOfThreeNumbers.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\02. SignOfThreeNumbers\obj\Debug\_02.SignOfThreeNumbers.pdb

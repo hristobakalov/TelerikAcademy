@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\07. NNumbersSumUp\bin\Debug\_07.NNumbersSumUp.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\07. NNumbersSumUp\bin\Debug\_07.NNumbersSumUp.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\07. NNumbersSumUp\bin\Debug\_07.NNumbersSumUp.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\07. NNumbersSumUp\obj\Debug\_07.NNumbersSumUp.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\07. NNumbersSumUp\obj\Debug\_07.NNumbersSumUp.pdb

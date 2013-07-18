@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\08. FindingTrapezoidsArea\bin\Debug\_08.FindingTrapezoidsArea.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\08. FindingTrapezoidsArea\bin\Debug\_08.FindingTrapezoidsArea.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\08. FindingTrapezoidsArea\bin\Debug\_08.FindingTrapezoidsArea.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\08. FindingTrapezoidsArea\obj\Debug\_08.FindingTrapezoidsArea.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\08. FindingTrapezoidsArea\obj\Debug\_08.FindingTrapezoidsArea.pdb

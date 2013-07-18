@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\03. DecimalToHexadecimal\bin\Debug\_03.DecimalToHexadecimal.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\03. DecimalToHexadecimal\bin\Debug\_03.DecimalToHexadecimal.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\03. DecimalToHexadecimal\bin\Debug\_03.DecimalToHexadecimal.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\03. DecimalToHexadecimal\obj\Debug\_03.DecimalToHexadecimal.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\03. DecimalToHexadecimal\obj\Debug\_03.DecimalToHexadecimal.pdb

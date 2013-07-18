@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\13. NumberOfZeros\bin\Debug\_13.NumberOfZeros.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\13. NumberOfZeros\bin\Debug\_13.NumberOfZeros.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\13. NumberOfZeros\bin\Debug\_13.NumberOfZeros.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\13. NumberOfZeros\obj\Debug\_13.NumberOfZeros.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\13. NumberOfZeros\obj\Debug\_13.NumberOfZeros.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\13. NumberOfZeros\obj\Debug\13. NumberOfZeros.csprojResolveAssemblyReference.cache

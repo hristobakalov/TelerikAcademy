@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\5. ConditionalStatements\09. ChecksIfSumIsZero\bin\Debug\_09.ChecksIfSumIsZero.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\5. ConditionalStatements\09. ChecksIfSumIsZero\bin\Debug\_09.ChecksIfSumIsZero.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\5. ConditionalStatements\09. ChecksIfSumIsZero\bin\Debug\_09.ChecksIfSumIsZero.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\5. ConditionalStatements\09. ChecksIfSumIsZero\obj\Debug\09. ChecksIfSumIsZero.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\5. ConditionalStatements\09. ChecksIfSumIsZero\obj\Debug\_09.ChecksIfSumIsZero.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\5. ConditionalStatements\09. ChecksIfSumIsZero\obj\Debug\_09.ChecksIfSumIsZero.pdb

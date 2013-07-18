@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\04. SortingInDescendingOrder\bin\Debug\_04.SortingInDescendingOrder.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\04. SortingInDescendingOrder\bin\Debug\_04.SortingInDescendingOrder.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\04. SortingInDescendingOrder\bin\Debug\_04.SortingInDescendingOrder.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\04. SortingInDescendingOrder\obj\Debug\04. SortingInDescendingOrder.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\04. SortingInDescendingOrder\obj\Debug\_04.SortingInDescendingOrder.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\04. SortingInDescendingOrder\obj\Debug\_04.SortingInDescendingOrder.pdb

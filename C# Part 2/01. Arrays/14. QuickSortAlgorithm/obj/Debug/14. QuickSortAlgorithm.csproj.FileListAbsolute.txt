@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\14. QuickSortAlgorithm\bin\Debug\_14.QuickSortAlgorithm.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\14. QuickSortAlgorithm\bin\Debug\_14.QuickSortAlgorithm.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\14. QuickSortAlgorithm\bin\Debug\_14.QuickSortAlgorithm.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\14. QuickSortAlgorithm\obj\Debug\14. QuickSortAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\14. QuickSortAlgorithm\obj\Debug\_14.QuickSortAlgorithm.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\14. QuickSortAlgorithm\obj\Debug\_14.QuickSortAlgorithm.pdb

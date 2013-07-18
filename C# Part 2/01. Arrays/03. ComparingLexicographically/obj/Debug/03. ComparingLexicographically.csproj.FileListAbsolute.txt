@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\03. ComparingLexicographically\bin\Debug\_03.ComparingLexicographically.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\03. ComparingLexicographically\bin\Debug\_03.ComparingLexicographically.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\03. ComparingLexicographically\bin\Debug\_03.ComparingLexicographically.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\03. ComparingLexicographically\obj\Debug\_03.ComparingLexicographically.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\03. ComparingLexicographically\obj\Debug\_03.ComparingLexicographically.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\03. ComparingLexicographically\obj\Debug\03. ComparingLexicographically.csprojResolveAssemblyReference.cache

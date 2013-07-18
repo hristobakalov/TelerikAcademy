@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\10. GivenSum\bin\Debug\_10.GivenSum.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\10. GivenSum\bin\Debug\_10.GivenSum.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\10. GivenSum\bin\Debug\_10.GivenSum.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\10. GivenSum\obj\Debug\10. GivenSum.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\10. GivenSum\obj\Debug\_10.GivenSum.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\10. GivenSum\obj\Debug\_10.GivenSum.pdb

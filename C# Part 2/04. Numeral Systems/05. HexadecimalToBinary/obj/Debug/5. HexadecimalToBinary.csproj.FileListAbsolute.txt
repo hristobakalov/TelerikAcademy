@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\5. HexadecimalToBinary\bin\Debug\_5.HexadecimalToBinary.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\5. HexadecimalToBinary\bin\Debug\_5.HexadecimalToBinary.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\5. HexadecimalToBinary\bin\Debug\_5.HexadecimalToBinary.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\5. HexadecimalToBinary\obj\Debug\_5.HexadecimalToBinary.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\5. HexadecimalToBinary\obj\Debug\_5.HexadecimalToBinary.pdb

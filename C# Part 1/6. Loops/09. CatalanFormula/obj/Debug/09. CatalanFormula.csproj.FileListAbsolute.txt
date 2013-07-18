@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\09. CatalanFormula\bin\Debug\_09.CatalanFormula.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\09. CatalanFormula\bin\Debug\_09.CatalanFormula.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\09. CatalanFormula\bin\Debug\_09.CatalanFormula.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\09. CatalanFormula\obj\Debug\_09.CatalanFormula.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\09. CatalanFormula\obj\Debug\_09.CatalanFormula.pdb

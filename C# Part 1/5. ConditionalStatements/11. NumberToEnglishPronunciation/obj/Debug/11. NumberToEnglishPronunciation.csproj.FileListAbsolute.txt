@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\5. ConditionalStatements\11. NumberToEnglishPronunciation\bin\Debug\_11.NumberToEnglishPronunciation.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\5. ConditionalStatements\11. NumberToEnglishPronunciation\bin\Debug\_11.NumberToEnglishPronunciation.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\5. ConditionalStatements\11. NumberToEnglishPronunciation\bin\Debug\_11.NumberToEnglishPronunciation.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\5. ConditionalStatements\11. NumberToEnglishPronunciation\obj\Debug\11. NumberToEnglishPronunciation.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\5. ConditionalStatements\11. NumberToEnglishPronunciation\obj\Debug\_11.NumberToEnglishPronunciation.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\5. ConditionalStatements\11. NumberToEnglishPronunciation\obj\Debug\_11.NumberToEnglishPronunciation.pdb

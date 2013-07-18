@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\12. ExchangingValues\bin\Debug\_12.ExchangingValues.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\12. ExchangingValues\bin\Debug\_12.ExchangingValues.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\12. ExchangingValues\bin\Debug\_12.ExchangingValues.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\12. ExchangingValues\obj\Debug\12. ExchangingValues.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\12. ExchangingValues\obj\Debug\_12.ExchangingValues.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\12. ExchangingValues\obj\Debug\_12.ExchangingValues.pdb

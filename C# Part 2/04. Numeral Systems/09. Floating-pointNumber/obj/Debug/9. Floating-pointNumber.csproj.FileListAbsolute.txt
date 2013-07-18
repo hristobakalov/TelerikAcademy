@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\9. Floating-pointNumber\bin\Debug\_9.Floating_pointNumber.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\9. Floating-pointNumber\bin\Debug\_9.Floating_pointNumber.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\9. Floating-pointNumber\bin\Debug\_9.Floating_pointNumber.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\9. Floating-pointNumber\obj\Debug\9. Floating-pointNumber.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\9. Floating-pointNumber\obj\Debug\_9.Floating_pointNumber.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\9. Floating-pointNumber\obj\Debug\_9.Floating_pointNumber.pdb

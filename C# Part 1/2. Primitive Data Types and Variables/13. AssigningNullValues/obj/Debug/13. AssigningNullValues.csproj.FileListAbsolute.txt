@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\13. AssigningNullValues\bin\Debug\_13.AssigningNullValues.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\13. AssigningNullValues\bin\Debug\_13.AssigningNullValues.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\13. AssigningNullValues\bin\Debug\_13.AssigningNullValues.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\13. AssigningNullValues\obj\Debug\_13.AssigningNullValues.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\13. AssigningNullValues\obj\Debug\_13.AssigningNullValues.pdb

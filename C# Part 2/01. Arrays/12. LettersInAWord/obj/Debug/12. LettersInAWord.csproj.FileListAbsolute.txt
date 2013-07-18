@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\12. LettersInAWord\bin\Debug\_12.LettersInAWord.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\12. LettersInAWord\bin\Debug\_12.LettersInAWord.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\12. LettersInAWord\bin\Debug\_12.LettersInAWord.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\12. LettersInAWord\obj\Debug\_12.LettersInAWord.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\12. LettersInAWord\obj\Debug\_12.LettersInAWord.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\12. LettersInAWord\obj\Debug\12. LettersInAWord.csprojResolveAssemblyReference.cache

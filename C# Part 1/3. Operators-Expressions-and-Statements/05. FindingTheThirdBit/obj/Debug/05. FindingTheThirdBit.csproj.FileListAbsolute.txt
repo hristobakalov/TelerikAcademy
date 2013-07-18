@@ -1,0 +1,8 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\05. FindingTheThirdBit\bin\Debug\_05.FindingTheThirdBit.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\05. FindingTheThirdBit\bin\Debug\_05.FindingTheThirdBit.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\05. FindingTheThirdBit\bin\Debug\_05.FindingTheThirdBit.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\05. FindingTheThirdBit\obj\Debug\_05.FindingTheThirdBit.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\05. FindingTheThirdBit\obj\Debug\_05.FindingTheThirdBit.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\05. FindingTheThirdBit\bin\Debug\_05.FindingTheThirdBit.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\05. FindingTheThirdBit\obj\Debug\_05.FindingTheThirdBit.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\05. FindingTheThirdBit\obj\Debug\_05.FindingTheThirdBit.pdb

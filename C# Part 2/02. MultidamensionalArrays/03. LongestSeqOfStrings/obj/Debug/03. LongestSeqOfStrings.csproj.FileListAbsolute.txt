@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\03. LongestSeqOfStrings\bin\Debug\_03.LongestSeqOfStrings.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\03. LongestSeqOfStrings\bin\Debug\_03.LongestSeqOfStrings.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\03. LongestSeqOfStrings\bin\Debug\_03.LongestSeqOfStrings.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\03. LongestSeqOfStrings\obj\Debug\03. LongestSeqOfStrings.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\03. LongestSeqOfStrings\obj\Debug\_03.LongestSeqOfStrings.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\03. LongestSeqOfStrings\obj\Debug\_03.LongestSeqOfStrings.pdb

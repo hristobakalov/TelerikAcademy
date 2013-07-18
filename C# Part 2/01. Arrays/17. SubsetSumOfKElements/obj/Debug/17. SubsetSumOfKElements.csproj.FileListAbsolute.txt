@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\17. SubsetSumOfKElements\bin\Debug\_17.SubsetSumOfKElements.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\17. SubsetSumOfKElements\bin\Debug\_17.SubsetSumOfKElements.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\17. SubsetSumOfKElements\bin\Debug\_17.SubsetSumOfKElements.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\17. SubsetSumOfKElements\obj\Debug\_17.SubsetSumOfKElements.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\17. SubsetSumOfKElements\obj\Debug\_17.SubsetSumOfKElements.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\17. SubsetSumOfKElements\obj\Debug\17. SubsetSumOfKElements.csprojResolveAssemblyReference.cache

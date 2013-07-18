@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\07. ReversingNumbers\bin\Debug\_07.ReversingNumbers.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\07. ReversingNumbers\bin\Debug\_07.ReversingNumbers.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\07. ReversingNumbers\bin\Debug\_07.ReversingNumbers.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\07. ReversingNumbers\obj\Debug\07. ReversingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\07. ReversingNumbers\obj\Debug\_07.ReversingNumbers.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\07. ReversingNumbers\obj\Debug\_07.ReversingNumbers.pdb

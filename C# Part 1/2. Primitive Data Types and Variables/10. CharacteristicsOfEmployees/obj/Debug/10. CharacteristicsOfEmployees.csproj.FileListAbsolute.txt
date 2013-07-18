@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\10. CharacteristicsOfEmployees\bin\Debug\_10.CharacteristicsOfEmployees.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\10. CharacteristicsOfEmployees\bin\Debug\_10.CharacteristicsOfEmployees.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\10. CharacteristicsOfEmployees\bin\Debug\_10.CharacteristicsOfEmployees.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\10. CharacteristicsOfEmployees\obj\Debug\_10.CharacteristicsOfEmployees.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\10. CharacteristicsOfEmployees\obj\Debug\_10.CharacteristicsOfEmployees.pdb

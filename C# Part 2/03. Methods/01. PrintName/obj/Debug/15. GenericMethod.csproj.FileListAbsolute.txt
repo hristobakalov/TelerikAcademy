@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\15. GenericMethod\bin\Debug\_15.GenericMethod.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\15. GenericMethod\obj\Debug\15. GenericMethod.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\15. GenericMethod\bin\Debug\_15.GenericMethod.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\15. GenericMethod\bin\Debug\_15.GenericMethod.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\15. GenericMethod\obj\Debug\_15.GenericMethod.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\15. GenericMethod\obj\Debug\_15.GenericMethod.pdb

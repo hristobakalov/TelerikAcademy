@@ -1,0 +1,6 @@
+c:\users\ico\documents\visual studio 2012\Projects\05. Classes And Objects\03. DayOfTheWeek\bin\Debug\_03.DayOfTheWeek.exe.config
+c:\users\ico\documents\visual studio 2012\Projects\05. Classes And Objects\03. DayOfTheWeek\bin\Debug\_03.DayOfTheWeek.exe
+c:\users\ico\documents\visual studio 2012\Projects\05. Classes And Objects\03. DayOfTheWeek\bin\Debug\_03.DayOfTheWeek.pdb
+c:\users\ico\documents\visual studio 2012\Projects\05. Classes And Objects\03. DayOfTheWeek\obj\Debug\03. DayOfTheWeek.csprojResolveAssemblyReference.cache
+c:\users\ico\documents\visual studio 2012\Projects\05. Classes And Objects\03. DayOfTheWeek\obj\Debug\_03.DayOfTheWeek.exe
+c:\users\ico\documents\visual studio 2012\Projects\05. Classes And Objects\03. DayOfTheWeek\obj\Debug\_03.DayOfTheWeek.pdb

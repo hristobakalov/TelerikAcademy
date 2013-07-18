@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\5. ConditionalStatements\08. IntDoubleOrString\bin\Debug\_08.IntDoubleOrString.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\5. ConditionalStatements\08. IntDoubleOrString\bin\Debug\_08.IntDoubleOrString.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\5. ConditionalStatements\08. IntDoubleOrString\bin\Debug\_08.IntDoubleOrString.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\5. ConditionalStatements\08. IntDoubleOrString\obj\Debug\08. IntDoubleOrString.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\5. ConditionalStatements\08. IntDoubleOrString\obj\Debug\_08.IntDoubleOrString.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\5. ConditionalStatements\08. IntDoubleOrString\obj\Debug\_08.IntDoubleOrString.pdb

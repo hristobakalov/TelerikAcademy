@@ -1,0 +1,6 @@
+C:\Users\Ico\documents\visual studio 2012\Projects\05. Classes And Objects\06. CalculateSum\bin\Debug\_06.CalculateSum.exe.config
+C:\Users\Ico\documents\visual studio 2012\Projects\05. Classes And Objects\06. CalculateSum\bin\Debug\_06.CalculateSum.exe
+C:\Users\Ico\documents\visual studio 2012\Projects\05. Classes And Objects\06. CalculateSum\bin\Debug\_06.CalculateSum.pdb
+C:\Users\Ico\documents\visual studio 2012\Projects\05. Classes And Objects\06. CalculateSum\obj\Debug\06. CalculateSum.csprojResolveAssemblyReference.cache
+C:\Users\Ico\documents\visual studio 2012\Projects\05. Classes And Objects\06. CalculateSum\obj\Debug\_06.CalculateSum.exe
+C:\Users\Ico\documents\visual studio 2012\Projects\05. Classes And Objects\06. CalculateSum\obj\Debug\_06.CalculateSum.pdb

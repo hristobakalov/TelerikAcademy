@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\7. PrintDateAndTime\bin\Debug\_7.PrintDateAndTime.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\7. PrintDateAndTime\bin\Debug\_7.PrintDateAndTime.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\7. PrintDateAndTime\bin\Debug\_7.PrintDateAndTime.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\7. PrintDateAndTime\obj\Debug\_7.PrintDateAndTime.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\7. PrintDateAndTime\obj\Debug\_7.PrintDateAndTime.pdb

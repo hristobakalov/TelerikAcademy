@@ -1,0 +1,6 @@
+c:\users\ico\documents\visual studio 2012\Projects\05. Classes And Objects\01. LeapYear\bin\Debug\_01.LeapYear.exe.config
+c:\users\ico\documents\visual studio 2012\Projects\05. Classes And Objects\01. LeapYear\obj\Debug\01. LeapYear.csprojResolveAssemblyReference.cache
+c:\users\ico\documents\visual studio 2012\Projects\05. Classes And Objects\01. LeapYear\bin\Debug\_01.LeapYear.exe
+c:\users\ico\documents\visual studio 2012\Projects\05. Classes And Objects\01. LeapYear\bin\Debug\_01.LeapYear.pdb
+c:\users\ico\documents\visual studio 2012\Projects\05. Classes And Objects\01. LeapYear\obj\Debug\_01.LeapYear.exe
+c:\users\ico\documents\visual studio 2012\Projects\05. Classes And Objects\01. LeapYear\obj\Debug\_01.LeapYear.pdb

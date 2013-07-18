@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\06. PointInCircle\bin\Debug\_06.PointInCircle.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\06. PointInCircle\bin\Debug\_06.PointInCircle.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\06. PointInCircle\bin\Debug\_06.PointInCircle.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\06. PointInCircle\obj\Debug\06. PointInCircle.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\06. PointInCircle\obj\Debug\_06.PointInCircle.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\06. PointInCircle\obj\Debug\_06.PointInCircle.pdb

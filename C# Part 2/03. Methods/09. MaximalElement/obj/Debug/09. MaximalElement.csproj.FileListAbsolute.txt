@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\09. MaximalElement\bin\Debug\_09.MaximalElement.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\09. MaximalElement\bin\Debug\_09.MaximalElement.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\09. MaximalElement\bin\Debug\_09.MaximalElement.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\09. MaximalElement\obj\Debug\09. MaximalElement.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\09. MaximalElement\obj\Debug\_09.MaximalElement.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\09. MaximalElement\obj\Debug\_09.MaximalElement.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ico\documents\visual studio 2012\Projects\05. Classes And Objects\05. CalculateWorkdays\bin\Debug\_05.CalculateWorkdays.exe.config
+C:\Users\Ico\documents\visual studio 2012\Projects\05. Classes And Objects\05. CalculateWorkdays\bin\Debug\_05.CalculateWorkdays.exe
+C:\Users\Ico\documents\visual studio 2012\Projects\05. Classes And Objects\05. CalculateWorkdays\bin\Debug\_05.CalculateWorkdays.pdb
+C:\Users\Ico\documents\visual studio 2012\Projects\05. Classes And Objects\05. CalculateWorkdays\obj\Debug\05. CalculateWorkdays.csprojResolveAssemblyReference.cache
+C:\Users\Ico\documents\visual studio 2012\Projects\05. Classes And Objects\05. CalculateWorkdays\obj\Debug\_05.CalculateWorkdays.exe
+C:\Users\Ico\documents\visual studio 2012\Projects\05. Classes And Objects\05. CalculateWorkdays\obj\Debug\_05.CalculateWorkdays.pdb

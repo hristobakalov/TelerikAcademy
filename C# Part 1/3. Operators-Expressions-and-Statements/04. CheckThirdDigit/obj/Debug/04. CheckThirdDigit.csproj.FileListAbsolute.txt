@@ -1,0 +1,12 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\04. CheckThirdDigit\bin\Debug\_04.CheckThirdDigit.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\04. CheckThirdDigit\bin\Debug\_04.CheckThirdDigit.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\04. CheckThirdDigit\bin\Debug\_04.CheckThirdDigit.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\04. CheckThirdDigit\obj\Debug\04. CheckThirdDigit.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\04. CheckThirdDigit\obj\Debug\_04.CheckThirdDigit.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\04. CheckThirdDigit\obj\Debug\_04.CheckThirdDigit.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\04. CheckThirdDigit\bin\Debug\_04.CheckThirdDigit.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\04. CheckThirdDigit\obj\Debug\_04.CheckThirdDigit.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\04. CheckThirdDigit\obj\Debug\_04.CheckThirdDigit.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\04. CheckThirdDigit\bin\Debug\_04.CheckThirdDigit.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\04. CheckThirdDigit\bin\Debug\_04.CheckThirdDigit.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\04. CheckThirdDigit\obj\Debug\04. CheckThirdDigit.csprojResolveAssemblyReference.cache

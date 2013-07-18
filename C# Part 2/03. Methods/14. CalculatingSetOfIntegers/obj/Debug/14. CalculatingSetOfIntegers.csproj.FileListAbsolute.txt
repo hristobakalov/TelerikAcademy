@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\14. CalculatingSetOfIntegers\bin\Debug\_14.CalculatingSetOfIntegers.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\14. CalculatingSetOfIntegers\bin\Debug\_14.CalculatingSetOfIntegers.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\14. CalculatingSetOfIntegers\bin\Debug\_14.CalculatingSetOfIntegers.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\14. CalculatingSetOfIntegers\obj\Debug\14. CalculatingSetOfIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\14. CalculatingSetOfIntegers\obj\Debug\_14.CalculatingSetOfIntegers.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\14. CalculatingSetOfIntegers\obj\Debug\_14.CalculatingSetOfIntegers.pdb

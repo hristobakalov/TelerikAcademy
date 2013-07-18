@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\9. ConvertingToRandomNumSystem\bin\Debug\_9.ConvertingToRandomNumSystem.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\9. ConvertingToRandomNumSystem\bin\Debug\_9.ConvertingToRandomNumSystem.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\9. ConvertingToRandomNumSystem\bin\Debug\_9.ConvertingToRandomNumSystem.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\9. ConvertingToRandomNumSystem\obj\Debug\7. ConvertingToRandomNumSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\9. ConvertingToRandomNumSystem\obj\Debug\_9.ConvertingToRandomNumSystem.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\9. ConvertingToRandomNumSystem\obj\Debug\_9.ConvertingToRandomNumSystem.pdb

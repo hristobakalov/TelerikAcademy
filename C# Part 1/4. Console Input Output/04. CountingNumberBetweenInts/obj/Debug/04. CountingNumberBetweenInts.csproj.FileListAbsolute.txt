@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\04. CountingNumberBetweenInts\bin\Debug\_04.CountingNumberBetweenInts.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\04. CountingNumberBetweenInts\bin\Debug\_04.CountingNumberBetweenInts.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\04. CountingNumberBetweenInts\bin\Debug\_04.CountingNumberBetweenInts.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\04. CountingNumberBetweenInts\obj\Debug\_04.CountingNumberBetweenInts.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\04. CountingNumberBetweenInts\obj\Debug\_04.CountingNumberBetweenInts.pdb

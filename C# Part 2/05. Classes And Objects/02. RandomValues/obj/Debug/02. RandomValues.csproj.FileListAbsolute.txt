@@ -1,0 +1,5 @@
+c:\users\ico\documents\visual studio 2012\Projects\05. Classes And Objects\02. RandomValues\bin\Debug\_02.RandomValues.exe.config
+c:\users\ico\documents\visual studio 2012\Projects\05. Classes And Objects\02. RandomValues\bin\Debug\_02.RandomValues.exe
+c:\users\ico\documents\visual studio 2012\Projects\05. Classes And Objects\02. RandomValues\bin\Debug\_02.RandomValues.pdb
+c:\users\ico\documents\visual studio 2012\Projects\05. Classes And Objects\02. RandomValues\obj\Debug\_02.RandomValues.exe
+c:\users\ico\documents\visual studio 2012\Projects\05. Classes And Objects\02. RandomValues\obj\Debug\_02.RandomValues.pdb

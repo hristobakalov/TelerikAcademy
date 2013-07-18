@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\14. BankAccount\bin\Debug\_14.BankAccount.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\14. BankAccount\bin\Debug\_14.BankAccount.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\14. BankAccount\bin\Debug\_14.BankAccount.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\14. BankAccount\obj\Debug\_14.BankAccount.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\14. BankAccount\obj\Debug\_14.BankAccount.pdb

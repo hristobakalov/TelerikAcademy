@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\02. SquareWithMaxSum\bin\Debug\_02.SquareWithMaxSum.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\02. SquareWithMaxSum\bin\Debug\_02.SquareWithMaxSum.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\02. SquareWithMaxSum\bin\Debug\_02.SquareWithMaxSum.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\02. SquareWithMaxSum\obj\Debug\_02.SquareWithMaxSum.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\02. SquareWithMaxSum\obj\Debug\_02.SquareWithMaxSum.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\02. SquareWithMaxSum\obj\Debug\02. SquareWithMaxSum.csprojResolveAssemblyReference.cache

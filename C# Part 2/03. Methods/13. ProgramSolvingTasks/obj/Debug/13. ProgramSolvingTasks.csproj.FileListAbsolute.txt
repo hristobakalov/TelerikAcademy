@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\13. ProgramSolvingTasks\bin\Debug\_13.ProgramSolvingTasks.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\13. ProgramSolvingTasks\bin\Debug\_13.ProgramSolvingTasks.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\13. ProgramSolvingTasks\bin\Debug\_13.ProgramSolvingTasks.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\13. ProgramSolvingTasks\obj\Debug\_13.ProgramSolvingTasks.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\13. ProgramSolvingTasks\obj\Debug\_13.ProgramSolvingTasks.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\13. ProgramSolvingTasks\obj\Debug\13. ProgramSolvingTasks.csprojResolveAssemblyReference.cache

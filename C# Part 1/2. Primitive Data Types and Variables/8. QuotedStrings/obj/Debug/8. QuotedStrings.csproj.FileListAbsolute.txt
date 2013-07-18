@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\8. QuotedStrings\bin\Debug\_8.QuotedStrings.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\8. QuotedStrings\obj\Debug\8. QuotedStrings.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\8. QuotedStrings\bin\Debug\_8.QuotedStrings.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\8. QuotedStrings\bin\Debug\_8.QuotedStrings.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\8. QuotedStrings\obj\Debug\_8.QuotedStrings.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\8. QuotedStrings\obj\Debug\_8.QuotedStrings.pdb

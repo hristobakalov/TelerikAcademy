@@ -1,0 +1,8 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\02. DividingBySevenAndFive\bin\Debug\_02.DividingBySevenAndFive.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\02. DividingBySevenAndFive\bin\Debug\_02.DividingBySevenAndFive.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\02. DividingBySevenAndFive\bin\Debug\_02.DividingBySevenAndFive.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\02. DividingBySevenAndFive\obj\Debug\_02.DividingBySevenAndFive.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\02. DividingBySevenAndFive\obj\Debug\_02.DividingBySevenAndFive.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\02. DividingBySevenAndFive\bin\Debug\_02.DividingBySevenAndFive.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\02. DividingBySevenAndFive\obj\Debug\_02.DividingBySevenAndFive.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\02. DividingBySevenAndFive\obj\Debug\_02.DividingBySevenAndFive.pdb

@@ -1,0 +1,8 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\6. Loops\04. DevidingFactoriels\bin\Debug\_04.DevidingFactoriels.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\6. Loops\04. DevidingFactoriels\bin\Debug\_04.DevidingFactoriels.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\6. Loops\04. DevidingFactoriels\bin\Debug\_04.DevidingFactoriels.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\6. Loops\04. DevidingFactoriels\obj\Debug\_04.DevidingFactoriels.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\6. Loops\04. DevidingFactoriels\obj\Debug\_04.DevidingFactoriels.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\04. DevidingFactoriels\bin\Debug\_04.DevidingFactoriels.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\04. DevidingFactoriels\obj\Debug\_04.DevidingFactoriels.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\04. DevidingFactoriels\obj\Debug\_04.DevidingFactoriels.pdb

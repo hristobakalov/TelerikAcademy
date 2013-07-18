@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\06. IndexOfBiggerNumber\bin\Debug\_06.IndexOfBiggerNumber.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\06. IndexOfBiggerNumber\bin\Debug\_06.IndexOfBiggerNumber.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\06. IndexOfBiggerNumber\bin\Debug\_06.IndexOfBiggerNumber.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\06. IndexOfBiggerNumber\obj\Debug\06. IndexOfBiggerNumber.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\06. IndexOfBiggerNumber\obj\Debug\_06.IndexOfBiggerNumber.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\06. IndexOfBiggerNumber\obj\Debug\_06.IndexOfBiggerNumber.pdb

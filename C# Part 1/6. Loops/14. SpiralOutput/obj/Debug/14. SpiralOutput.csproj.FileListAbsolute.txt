@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\14. SpiralOutput\bin\Debug\_14.SpiralOutput.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\14. SpiralOutput\bin\Debug\_14.SpiralOutput.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\14. SpiralOutput\bin\Debug\_14.SpiralOutput.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\14. SpiralOutput\obj\Debug\14. SpiralOutput.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\14. SpiralOutput\obj\Debug\_14.SpiralOutput.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\14. SpiralOutput\obj\Debug\_14.SpiralOutput.pdb
