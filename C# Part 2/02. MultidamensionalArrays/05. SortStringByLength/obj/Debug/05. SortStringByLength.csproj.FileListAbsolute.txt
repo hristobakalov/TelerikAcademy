@@ -4,3 +4,9 @@ C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. Multidamensiona
 C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\05. SortStringByLength\obj\Debug\05. SortStringByLength.csprojResolveAssemblyReference.cache
 C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\05. SortStringByLength\obj\Debug\_05.SortStringByLength.exe
 C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\05. SortStringByLength\obj\Debug\_05.SortStringByLength.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\02. MultidamensionalArrays\05. SortStringByLength\bin\Debug\_05.SortStringByLength.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\02. MultidamensionalArrays\05. SortStringByLength\bin\Debug\_05.SortStringByLength.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\02. MultidamensionalArrays\05. SortStringByLength\bin\Debug\_05.SortStringByLength.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\02. MultidamensionalArrays\05. SortStringByLength\obj\Debug\05. SortStringByLength.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\02. MultidamensionalArrays\05. SortStringByLength\obj\Debug\_05.SortStringByLength.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\02. MultidamensionalArrays\05. SortStringByLength\obj\Debug\_05.SortStringByLength.pdb
