@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\06. Exception Handling\02. ReadNumberInGivenRange\bin\Debug\_02.ReadNumberInGivenRange.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\06. Exception Handling\02. ReadNumberInGivenRange\bin\Debug\_02.ReadNumberInGivenRange.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\06. Exception Handling\02. ReadNumberInGivenRange\bin\Debug\_02.ReadNumberInGivenRange.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\06. Exception Handling\02. ReadNumberInGivenRange\obj\Debug\_02.ReadNumberInGivenRange.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\06. Exception Handling\02. ReadNumberInGivenRange\obj\Debug\_02.ReadNumberInGivenRange.pdb

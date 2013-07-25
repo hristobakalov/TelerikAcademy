@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\07. ReplaceStartWithFinish\bin\Debug\_07.ReplaceStartWithFinish.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\07. ReplaceStartWithFinish\bin\Debug\_07.ReplaceStartWithFinish.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\07. ReplaceStartWithFinish\bin\Debug\_07.ReplaceStartWithFinish.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\07. ReplaceStartWithFinish\obj\Debug\_07.ReplaceStartWithFinish.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\07. ReplaceStartWithFinish\obj\Debug\_07.ReplaceStartWithFinish.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\07. ReplaceStartWithFinish\obj\Debug\07. ReplaceStartWithFinish.csprojResolveAssemblyReference.cache

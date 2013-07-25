@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\06. Exception Handling\03. ReadAndPrintContentOfAFile\bin\Debug\_03.ReadAndPrintContentOfAFile.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\06. Exception Handling\03. ReadAndPrintContentOfAFile\bin\Debug\_03.ReadAndPrintContentOfAFile.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\06. Exception Handling\03. ReadAndPrintContentOfAFile\bin\Debug\_03.ReadAndPrintContentOfAFile.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\06. Exception Handling\03. ReadAndPrintContentOfAFile\obj\Debug\_03.ReadAndPrintContentOfAFile.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\06. Exception Handling\03. ReadAndPrintContentOfAFile\obj\Debug\_03.ReadAndPrintContentOfAFile.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\06. Exception Handling\03. ReadAndPrintContentOfAFile\obj\Debug\03. ReadAndPrintContentOfAFile.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\02. ConcatenateTwoFilesIntoOne\bin\Debug\_02.ConcatenateTwoFilesIntoOne.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\02. ConcatenateTwoFilesIntoOne\bin\Debug\_02.ConcatenateTwoFilesIntoOne.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\02. ConcatenateTwoFilesIntoOne\bin\Debug\_02.ConcatenateTwoFilesIntoOne.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\02. ConcatenateTwoFilesIntoOne\obj\Debug\_02.ConcatenateTwoFilesIntoOne.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\02. ConcatenateTwoFilesIntoOne\obj\Debug\_02.ConcatenateTwoFilesIntoOne.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\02. ConcatenateTwoFilesIntoOne\obj\Debug\02. ConcatenateTwoFilesIntoOne.csprojResolveAssemblyReference.cache
