@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\10. BitAtPositionP\bin\Debug\_10.BitAtPositionP.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\10. BitAtPositionP\bin\Debug\_10.BitAtPositionP.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\10. BitAtPositionP\bin\Debug\_10.BitAtPositionP.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\10. BitAtPositionP\obj\Debug\10. BitAtPositionP.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\10. BitAtPositionP\obj\Debug\_10.BitAtPositionP.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\10. BitAtPositionP\obj\Debug\_10.BitAtPositionP.pdb

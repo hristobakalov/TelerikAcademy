@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\08. BinaryRepresentationOfShort\bin\Debug\_08.BinaryRepresentationOfShort.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\08. BinaryRepresentationOfShort\bin\Debug\_08.BinaryRepresentationOfShort.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\08. BinaryRepresentationOfShort\bin\Debug\_08.BinaryRepresentationOfShort.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\08. BinaryRepresentationOfShort\obj\Debug\08. BinaryRepresentationOfShort.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\08. BinaryRepresentationOfShort\obj\Debug\_08.BinaryRepresentationOfShort.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\08. BinaryRepresentationOfShort\obj\Debug\_08.BinaryRepresentationOfShort.pdb

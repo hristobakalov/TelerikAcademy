@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\08. PrintNNumbers\bin\Debug\_08.PrintNNumbers.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\08. PrintNNumbers\bin\Debug\_08.PrintNNumbers.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\08. PrintNNumbers\bin\Debug\_08.PrintNNumbers.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\08. PrintNNumbers\obj\Debug\_08.PrintNNumbers.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\08. PrintNNumbers\obj\Debug\_08.PrintNNumbers.pdb

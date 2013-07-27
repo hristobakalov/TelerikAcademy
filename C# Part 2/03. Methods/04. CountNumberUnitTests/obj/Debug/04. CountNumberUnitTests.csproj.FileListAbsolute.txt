@@ -1,0 +1,7 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\04. CountNumberUnitTests\bin\Debug\_04.CountNumberUnitTests.dll
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\04. CountNumberUnitTests\bin\Debug\_04.CountNumberUnitTests.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\04. CountNumberUnitTests\bin\Debug\_04.CountNumberInArray.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\04. CountNumberUnitTests\bin\Debug\_04.CountNumberInArray.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\04. CountNumberUnitTests\obj\Debug\04. CountNumberUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\04. CountNumberUnitTests\obj\Debug\_04.CountNumberUnitTests.dll
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\04. CountNumberUnitTests\obj\Debug\_04.CountNumberUnitTests.pdb

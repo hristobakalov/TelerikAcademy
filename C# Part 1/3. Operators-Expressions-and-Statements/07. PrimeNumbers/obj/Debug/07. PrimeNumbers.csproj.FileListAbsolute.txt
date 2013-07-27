@@ -1,0 +1,10 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\07. PrimeNumbers\bin\Debug\_07.PrimeNumbers.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\07. PrimeNumbers\bin\Debug\_07.PrimeNumbers.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\07. PrimeNumbers\bin\Debug\_07.PrimeNumbers.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\07. PrimeNumbers\obj\Debug\_07.PrimeNumbers.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\07. PrimeNumbers\obj\Debug\_07.PrimeNumbers.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\07. PrimeNumbers\bin\Debug\_07.PrimeNumbers.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\07. PrimeNumbers\obj\Debug\_07.PrimeNumbers.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\07. PrimeNumbers\obj\Debug\_07.PrimeNumbers.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\07. PrimeNumbers\bin\Debug\_07.PrimeNumbers.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\07. PrimeNumbers\bin\Debug\_07.PrimeNumbers.pdb

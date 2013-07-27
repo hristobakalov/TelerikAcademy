@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\04. ComparingLines\bin\Debug\_04.ComparingLines.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\04. ComparingLines\bin\Debug\_04.ComparingLines.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\04. ComparingLines\bin\Debug\_04.ComparingLines.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\04. ComparingLines\obj\Debug\_04.ComparingLines.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\04. ComparingLines\obj\Debug\_04.ComparingLines.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\04. ComparingLines\obj\Debug\04. ComparingLines.csprojResolveAssemblyReference.cache

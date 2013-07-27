@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\05. MaximalIncreasingSequence\bin\Debug\_05.MaximalIncreasingSequence.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\05. MaximalIncreasingSequence\bin\Debug\_05.MaximalIncreasingSequence.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\05. MaximalIncreasingSequence\bin\Debug\_05.MaximalIncreasingSequence.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\05. MaximalIncreasingSequence\obj\Debug\_05.MaximalIncreasingSequence.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\05. MaximalIncreasingSequence\obj\Debug\_05.MaximalIncreasingSequence.pdb

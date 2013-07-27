@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\06. SortingListOfStrings\bin\Debug\_06.SortingListOfStrings.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\06. SortingListOfStrings\bin\Debug\_06.SortingListOfStrings.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\06. SortingListOfStrings\bin\Debug\_06.SortingListOfStrings.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\06. SortingListOfStrings\obj\Debug\_06.SortingListOfStrings.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\06. SortingListOfStrings\obj\Debug\_06.SortingListOfStrings.pdb

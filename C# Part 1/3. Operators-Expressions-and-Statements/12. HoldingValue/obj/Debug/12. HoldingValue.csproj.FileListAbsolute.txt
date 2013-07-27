@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\12. HoldingValue\bin\Debug\_12.HoldingValue.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\12. HoldingValue\bin\Debug\_12.HoldingValue.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\12. HoldingValue\bin\Debug\_12.HoldingValue.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\12. HoldingValue\obj\Debug\_12.HoldingValue.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\12. HoldingValue\obj\Debug\_12.HoldingValue.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\12. HoldingValue\obj\Debug\12. HoldingValue.csprojResolveAssemblyReference.cache

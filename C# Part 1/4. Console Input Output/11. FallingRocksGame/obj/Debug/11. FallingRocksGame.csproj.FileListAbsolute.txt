@@ -1,0 +1,12 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\11. FallingRocksGame\bin\Debug\_11.FallingRocksGame.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\11. FallingRocksGame\bin\Debug\_11.FallingRocksGame.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\11. FallingRocksGame\bin\Debug\_11.FallingRocksGame.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\11. FallingRocksGame\obj\Debug\11. FallingRocksGame.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\11. FallingRocksGame\obj\Debug\_11.FallingRocksGame.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\11. FallingRocksGame\obj\Debug\_11.FallingRocksGame.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\4. Console Input Output\11. FallingRocksGame\bin\Debug\_11.FallingRocksGame.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\4. Console Input Output\11. FallingRocksGame\obj\Debug\_11.FallingRocksGame.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\4. Console Input Output\11. FallingRocksGame\obj\Debug\_11.FallingRocksGame.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\4. Console Input Output\11. FallingRocksGame\bin\Debug\_11.FallingRocksGame.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\4. Console Input Output\11. FallingRocksGame\bin\Debug\_11.FallingRocksGame.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\4. Console Input Output\11. FallingRocksGame\obj\Debug\11. FallingRocksGame.csprojResolveAssemblyReference.cache

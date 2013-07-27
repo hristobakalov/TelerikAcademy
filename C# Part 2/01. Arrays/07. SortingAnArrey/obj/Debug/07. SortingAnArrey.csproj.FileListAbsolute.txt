@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\07. SortingAnArrey\bin\Debug\_07.SortingAnArrey.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\07. SortingAnArrey\bin\Debug\_07.SortingAnArrey.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\07. SortingAnArrey\bin\Debug\_07.SortingAnArrey.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\07. SortingAnArrey\obj\Debug\_07.SortingAnArrey.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\07. SortingAnArrey\obj\Debug\_07.SortingAnArrey.pdb

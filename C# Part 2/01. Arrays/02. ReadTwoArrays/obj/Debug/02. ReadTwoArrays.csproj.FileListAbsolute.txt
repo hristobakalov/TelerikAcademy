@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\02. ReadTwoArrays\bin\Debug\_02.ReadTwoArrays.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\02. ReadTwoArrays\bin\Debug\_02.ReadTwoArrays.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\02. ReadTwoArrays\bin\Debug\_02.ReadTwoArrays.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\02. ReadTwoArrays\obj\Debug\02. ReadTwoArrays.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\02. ReadTwoArrays\obj\Debug\_02.ReadTwoArrays.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\02. ReadTwoArrays\obj\Debug\_02.ReadTwoArrays.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\5. DeclareCharacterVariable\bin\Debug\_5.DeclareCharacterVariable.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\5. DeclareCharacterVariable\bin\Debug\_5.DeclareCharacterVariable.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\5. DeclareCharacterVariable\bin\Debug\_5.DeclareCharacterVariable.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\5. DeclareCharacterVariable\obj\Debug\_5.DeclareCharacterVariable.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\5. DeclareCharacterVariable\obj\Debug\_5.DeclareCharacterVariable.pdb

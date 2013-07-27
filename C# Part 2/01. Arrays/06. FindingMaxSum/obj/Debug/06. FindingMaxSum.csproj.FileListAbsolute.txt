@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\06. FindingMaxSum\bin\Debug\_06.FindingMaxSum.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\06. FindingMaxSum\bin\Debug\_06.FindingMaxSum.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\06. FindingMaxSum\bin\Debug\_06.FindingMaxSum.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\06. FindingMaxSum\obj\Debug\06. FindingMaxSum.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\06. FindingMaxSum\obj\Debug\_06.FindingMaxSum.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\06. FindingMaxSum\obj\Debug\_06.FindingMaxSum.pdb

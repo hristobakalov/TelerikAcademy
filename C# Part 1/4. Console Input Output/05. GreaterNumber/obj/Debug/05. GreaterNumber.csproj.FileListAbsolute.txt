@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\05. GreaterNumber\bin\Debug\_05.GreaterNumber.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\05. GreaterNumber\bin\Debug\_05.GreaterNumber.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\05. GreaterNumber\bin\Debug\_05.GreaterNumber.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\05. GreaterNumber\obj\Debug\05. GreaterNumber.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\05. GreaterNumber\obj\Debug\_05.GreaterNumber.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\05. GreaterNumber\obj\Debug\_05.GreaterNumber.pdb

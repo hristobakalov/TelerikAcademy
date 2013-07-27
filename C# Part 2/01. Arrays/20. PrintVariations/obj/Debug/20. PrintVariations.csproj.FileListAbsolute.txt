@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\20. PrintVariations\bin\Debug\_20.PrintVariations.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\20. PrintVariations\bin\Debug\_20.PrintVariations.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\20. PrintVariations\bin\Debug\_20.PrintVariations.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\20. PrintVariations\obj\Debug\20. PrintVariations.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\20. PrintVariations\obj\Debug\_20.PrintVariations.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\20. PrintVariations\obj\Debug\_20.PrintVariations.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\03. InsertingLineNumbers\bin\Debug\_03.InsertingLineNumbers.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\03. InsertingLineNumbers\bin\Debug\_03.InsertingLineNumbers.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\03. InsertingLineNumbers\bin\Debug\_03.InsertingLineNumbers.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\03. InsertingLineNumbers\obj\Debug\_03.InsertingLineNumbers.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\03. InsertingLineNumbers\obj\Debug\_03.InsertingLineNumbers.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\03. InsertingLineNumbers\obj\Debug\03. InsertingLineNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\18. SortArrayWithMinRemoving\bin\Debug\_18.SortArrayWithMinRemoving.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\18. SortArrayWithMinRemoving\bin\Debug\_18.SortArrayWithMinRemoving.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\18. SortArrayWithMinRemoving\bin\Debug\_18.SortArrayWithMinRemoving.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\18. SortArrayWithMinRemoving\obj\Debug\18. SortArrayWithMinRemoving.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\18. SortArrayWithMinRemoving\obj\Debug\_18.SortArrayWithMinRemoving.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\18. SortArrayWithMinRemoving\obj\Debug\_18.SortArrayWithMinRemoving.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\16. SubsetSum\obj\Debug\_18.SortArrayWithMinRemoving.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\16. SubsetSum\obj\Debug\_18.SortArrayWithMinRemoving.pdb

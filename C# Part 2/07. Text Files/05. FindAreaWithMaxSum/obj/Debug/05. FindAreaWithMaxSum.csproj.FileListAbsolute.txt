@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\05. FindAreaWithMaxSum\bin\Debug\_05.FindAreaWithMaxSum.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\05. FindAreaWithMaxSum\bin\Debug\_05.FindAreaWithMaxSum.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\05. FindAreaWithMaxSum\bin\Debug\_05.FindAreaWithMaxSum.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\05. FindAreaWithMaxSum\obj\Debug\_05.FindAreaWithMaxSum.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\05. FindAreaWithMaxSum\obj\Debug\_05.FindAreaWithMaxSum.pdb

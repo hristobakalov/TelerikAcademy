@@ -1,0 +1,12 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\01. FillAndPrintMatrix\bin\Debug\_01.FillAndPrintMatrix.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\01. FillAndPrintMatrix\bin\Debug\_01.FillAndPrintMatrix.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\01. FillAndPrintMatrix\bin\Debug\_01.FillAndPrintMatrix.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\01. FillAndPrintMatrix\obj\Debug\01. FillAndPrintMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\01. FillAndPrintMatrix\obj\Debug\_01.FillAndPrintMatrix.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\01. FillAndPrintMatrix\obj\Debug\_01.FillAndPrintMatrix.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\02. MultidamensionalArrays\01. FillAndPrintMatrix\bin\Debug\_01.FillAndPrintMatrix.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\02. MultidamensionalArrays\01. FillAndPrintMatrix\obj\Debug\_01.FillAndPrintMatrix.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\02. MultidamensionalArrays\01. FillAndPrintMatrix\obj\Debug\_01.FillAndPrintMatrix.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\02. MultidamensionalArrays\01. FillAndPrintMatrix\bin\Debug\_01.FillAndPrintMatrix.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\02. MultidamensionalArrays\01. FillAndPrintMatrix\bin\Debug\_01.FillAndPrintMatrix.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\02. MultidamensionalArrays\01. FillAndPrintMatrix\obj\Debug\01. FillAndPrintMatrix.csprojResolveAssemblyReference.cache

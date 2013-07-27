@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\7. HelloWorldCasting\bin\Debug\_7.HelloWorldCasting.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\7. HelloWorldCasting\bin\Debug\_7.HelloWorldCasting.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\7. HelloWorldCasting\bin\Debug\_7.HelloWorldCasting.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\7. HelloWorldCasting\obj\Debug\_7.HelloWorldCasting.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\7. HelloWorldCasting\obj\Debug\_7.HelloWorldCasting.pdb

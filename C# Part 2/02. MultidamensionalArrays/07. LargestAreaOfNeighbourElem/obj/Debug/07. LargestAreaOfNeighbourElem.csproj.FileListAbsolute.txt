@@ -1,0 +1,7 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\02. MultidamensionalArrays\07. LargestAreaOfNeighbourElem\bin\Debug\_07.LargestAreaOfNeighbourElem.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\02. MultidamensionalArrays\07. LargestAreaOfNeighbourElem\bin\Debug\_07.LargestAreaOfNeighbourElem.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\02. MultidamensionalArrays\07. LargestAreaOfNeighbourElem\bin\Debug\_07.LargestAreaOfNeighbourElem.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\02. MultidamensionalArrays\07. LargestAreaOfNeighbourElem\bin\Debug\_07.LargestAreaOfNeighbourElem.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\02. MultidamensionalArrays\07. LargestAreaOfNeighbourElem\obj\Debug\07. LargestAreaOfNeighbourElem.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\02. MultidamensionalArrays\07. LargestAreaOfNeighbourElem\obj\Debug\_07.LargestAreaOfNeighbourElem.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\02. MultidamensionalArrays\07. LargestAreaOfNeighbourElem\obj\Debug\_07.LargestAreaOfNeighbourElem.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\10. CalculatingFactoriel\bin\Debug\_10.CalculatingFactoriel.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\10. CalculatingFactoriel\bin\Debug\_10.CalculatingFactoriel.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\10. CalculatingFactoriel\bin\Debug\_10.CalculatingFactoriel.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\10. CalculatingFactoriel\obj\Debug\10. CalculatingFactoriel.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\10. CalculatingFactoriel\obj\Debug\_10.CalculatingFactoriel.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\10. CalculatingFactoriel\obj\Debug\_10.CalculatingFactoriel.pdb

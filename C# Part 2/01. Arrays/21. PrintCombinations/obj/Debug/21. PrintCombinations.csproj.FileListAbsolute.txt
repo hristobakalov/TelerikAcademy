@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\21. PrintCombinations\bin\Debug\_21.PrintCombinations.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\21. PrintCombinations\bin\Debug\_21.PrintCombinations.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\21. PrintCombinations\bin\Debug\_21.PrintCombinations.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\21. PrintCombinations\obj\Debug\_21.PrintCombinations.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\21. PrintCombinations\obj\Debug\_21.PrintCombinations.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\21. PrintCombinations\obj\Debug\21. PrintCombinations.csprojResolveAssemblyReference.cache

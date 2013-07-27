@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\8. PrintSquareOfNumber\bin\Debug\_8.PrintSquareOfNumber.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\8. PrintSquareOfNumber\bin\Debug\_8.PrintSquareOfNumber.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\8. PrintSquareOfNumber\bin\Debug\_8.PrintSquareOfNumber.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\8. PrintSquareOfNumber\obj\Debug\_8.PrintSquareOfNumber.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\8. PrintSquareOfNumber\obj\Debug\_8.PrintSquareOfNumber.pdb

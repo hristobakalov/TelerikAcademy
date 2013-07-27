@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\12. OutputMatrix\bin\Debug\_12.OutputMatrix.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\12. OutputMatrix\bin\Debug\_12.OutputMatrix.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\12. OutputMatrix\bin\Debug\_12.OutputMatrix.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\12. OutputMatrix\obj\Debug\12. OutputMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\12. OutputMatrix\obj\Debug\_12.OutputMatrix.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\12. OutputMatrix\obj\Debug\_12.OutputMatrix.pdb

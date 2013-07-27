@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\19. PrintPermutations\bin\Debug\_19.PrintPermutations.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\19. PrintPermutations\bin\Debug\_19.PrintPermutations.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\19. PrintPermutations\bin\Debug\_19.PrintPermutations.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\19. PrintPermutations\obj\Debug\19. PrintPermutations.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\19. PrintPermutations\obj\Debug\_19.PrintPermutations.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\19. PrintPermutations\obj\Debug\_19.PrintPermutations.pdb

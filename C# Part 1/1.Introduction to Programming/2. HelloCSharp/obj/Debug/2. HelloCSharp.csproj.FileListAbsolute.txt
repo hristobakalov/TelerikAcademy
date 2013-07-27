@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\2. HelloCSharp\bin\Debug\_2.HelloCSharp.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\2. HelloCSharp\bin\Debug\_2.HelloCSharp.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\2. HelloCSharp\bin\Debug\_2.HelloCSharp.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\2. HelloCSharp\obj\Debug\2. HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\2. HelloCSharp\obj\Debug\_2.HelloCSharp.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\2. HelloCSharp\obj\Debug\_2.HelloCSharp.pdb

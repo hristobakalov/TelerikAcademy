@@ -1,0 +1,9 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\1. Declaring variables\bin\Debug\_1.Declaring_variables.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\1. Declaring variables\bin\Debug\_1.Declaring_variables.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\1. Declaring variables\bin\Debug\_1.Declaring_variables.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\1. Declaring variables\obj\Debug\1. Declaring variables.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\1. Declaring variables\obj\Debug\_1.Declaring_variables.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\1. Declaring variables\obj\Debug\_1.Declaring_variables.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\2. Primitive Data Types and Variables\1. Declaring variables\bin\Debug\_1.Declaring_variables.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\2. Primitive Data Types and Variables\1. Declaring variables\obj\Debug\_1.Declaring_variables.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\2. Primitive Data Types and Variables\1. Declaring variables\obj\Debug\_1.Declaring_variables.pdb

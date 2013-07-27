@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\3. ComparingFloatingPointNumbers\bin\Debug\_3.ComparingFloatingPointNumbers.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\3. ComparingFloatingPointNumbers\bin\Debug\_3.ComparingFloatingPointNumbers.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\3. ComparingFloatingPointNumbers\bin\Debug\_3.ComparingFloatingPointNumbers.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\3. ComparingFloatingPointNumbers\obj\Debug\_3.ComparingFloatingPointNumbers.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\3. ComparingFloatingPointNumbers\obj\Debug\_3.ComparingFloatingPointNumbers.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\3. ComparingFloatingPointNumbers\obj\Debug\3. ComparingFloatingPointNumbers.csprojResolveAssemblyReference.cache

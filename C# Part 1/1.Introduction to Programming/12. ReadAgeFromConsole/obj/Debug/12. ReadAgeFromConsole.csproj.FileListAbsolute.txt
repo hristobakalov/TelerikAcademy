@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\12. ReadAgeFromConsole\bin\Debug\_12.ReadAgeFromConsole.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\12. ReadAgeFromConsole\bin\Debug\_12.ReadAgeFromConsole.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\12. ReadAgeFromConsole\bin\Debug\_12.ReadAgeFromConsole.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\12. ReadAgeFromConsole\obj\Debug\_12.ReadAgeFromConsole.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\12. ReadAgeFromConsole\obj\Debug\_12.ReadAgeFromConsole.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\12. ReadAgeFromConsole\obj\Debug\12. ReadAgeFromConsole.csprojResolveAssemblyReference.cache

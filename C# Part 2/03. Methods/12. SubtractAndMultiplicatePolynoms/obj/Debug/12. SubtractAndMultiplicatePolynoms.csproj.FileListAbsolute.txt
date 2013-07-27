@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\12. SubtractAndMultiplicatePolynoms\bin\Debug\_12.SubtractAndMultiplicatePolynoms.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\12. SubtractAndMultiplicatePolynoms\bin\Debug\_12.SubtractAndMultiplicatePolynoms.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\12. SubtractAndMultiplicatePolynoms\bin\Debug\_12.SubtractAndMultiplicatePolynoms.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\12. SubtractAndMultiplicatePolynoms\obj\Debug\12. SubtractAndMultiplicatePolynoms.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\12. SubtractAndMultiplicatePolynoms\obj\Debug\_12.SubtractAndMultiplicatePolynoms.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\12. SubtractAndMultiplicatePolynoms\obj\Debug\_12.SubtractAndMultiplicatePolynoms.pdb

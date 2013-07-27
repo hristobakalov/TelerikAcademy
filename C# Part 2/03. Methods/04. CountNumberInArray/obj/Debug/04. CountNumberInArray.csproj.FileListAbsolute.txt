@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\04. CountNumberInArray\bin\Debug\_04.CountNumberInArray.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\04. CountNumberInArray\bin\Debug\_04.CountNumberInArray.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\04. CountNumberInArray\bin\Debug\_04.CountNumberInArray.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\04. CountNumberInArray\obj\Debug\_04.CountNumberInArray.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\04. CountNumberInArray\obj\Debug\_04.CountNumberInArray.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\03. Methods\04. CountNumberInArray\obj\Debug\04. CountNumberInArray.csprojResolveAssemblyReference.cache

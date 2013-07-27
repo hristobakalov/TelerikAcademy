@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\01. ReadAndPringOddLines\bin\Debug\_01.ReadAndPringOddLines.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\01. ReadAndPringOddLines\bin\Debug\_01.ReadAndPringOddLines.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\01. ReadAndPringOddLines\bin\Debug\_01.ReadAndPringOddLines.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\01. ReadAndPringOddLines\obj\Debug\01. ReadAndPringOddLines.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\01. ReadAndPringOddLines\obj\Debug\_01.ReadAndPringOddLines.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\01. ReadAndPringOddLines\obj\Debug\_01.ReadAndPringOddLines.pdb

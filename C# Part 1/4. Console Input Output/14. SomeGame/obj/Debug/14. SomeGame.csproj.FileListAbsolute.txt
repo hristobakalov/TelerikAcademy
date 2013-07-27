@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\14. SomeGame\bin\Debug\_14.SomeGame.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\14. SomeGame\bin\Debug\_14.SomeGame.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\14. SomeGame\bin\Debug\_14.SomeGame.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\14. SomeGame\obj\Debug\14. SomeGame.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\14. SomeGame\obj\Debug\_14.SomeGame.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\4. Console Input Output\14. SomeGame\obj\Debug\_14.SomeGame.pdb

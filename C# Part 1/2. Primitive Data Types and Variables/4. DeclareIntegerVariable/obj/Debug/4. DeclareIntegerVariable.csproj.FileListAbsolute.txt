@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\4. DeclareIntegerVariable\bin\Debug\_4.DeclareIntegerVariable.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\4. DeclareIntegerVariable\bin\Debug\_4.DeclareIntegerVariable.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\4. DeclareIntegerVariable\bin\Debug\_4.DeclareIntegerVariable.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\4. DeclareIntegerVariable\obj\Debug\_4.DeclareIntegerVariable.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\4. DeclareIntegerVariable\obj\Debug\_4.DeclareIntegerVariable.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\04. MaximalSequenceOfElements\bin\Debug\_04.MaximalSequenceOfElements.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\04. MaximalSequenceOfElements\bin\Debug\_04.MaximalSequenceOfElements.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\04. MaximalSequenceOfElements\bin\Debug\_04.MaximalSequenceOfElements.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\04. MaximalSequenceOfElements\obj\Debug\_04.MaximalSequenceOfElements.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\04. MaximalSequenceOfElements\obj\Debug\_04.MaximalSequenceOfElements.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\13. ASCIITable\bin\Debug\_13.ASCIITable.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\13. ASCIITable\obj\Debug\_13.ASCIITable.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\13. ASCIITable\obj\Debug\_13.ASCIITable.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\13. ASCIITable\bin\Debug\_13.ASCIITable.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\13. ASCIITable\bin\Debug\_13.ASCIITable.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\2. Primitive Data Types and Variables\13. ASCIITable\bin\Debug\_13.ASCIITable.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\2. Primitive Data Types and Variables\13. ASCIITable\obj\Debug\_13.ASCIITable.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\2. Primitive Data Types and Variables\13. ASCIITable\obj\Debug\_13.ASCIITable.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\2. Primitive Data Types and Variables\13. ASCIITable\bin\Debug\_13.ASCIITable.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\2. Primitive Data Types and Variables\13. ASCIITable\bin\Debug\_13.ASCIITable.pdb

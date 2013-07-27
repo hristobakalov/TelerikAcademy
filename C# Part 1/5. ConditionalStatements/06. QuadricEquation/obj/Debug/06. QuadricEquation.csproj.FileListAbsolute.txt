@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\06. QuadricEquation\bin\Debug\_06.QuadricEquation.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\06. QuadricEquation\bin\Debug\_06.QuadricEquation.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\06. QuadricEquation\bin\Debug\_06.QuadricEquation.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\06. QuadricEquation\obj\Debug\_06.QuadricEquation.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\5. ConditionalStatements\06. QuadricEquation\obj\Debug\_06.QuadricEquation.pdb

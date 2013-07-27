@@ -1,0 +1,9 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\6. Loops\01. NumbersToN\bin\Debug\_01.NumbersToN.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\6. Loops\01. NumbersToN\bin\Debug\_01.NumbersToN.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\6. Loops\01. NumbersToN\bin\Debug\_01.NumbersToN.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\6. Loops\01. NumbersToN\obj\Debug\01. NumbersToN.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\6. Loops\01. NumbersToN\obj\Debug\_01.NumbersToN.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\6. Loops\01. NumbersToN\obj\Debug\_01.NumbersToN.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\01. NumbersToN\bin\Debug\_01.NumbersToN.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\01. NumbersToN\obj\Debug\_01.NumbersToN.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\01. NumbersToN\obj\Debug\_01.NumbersToN.pdb

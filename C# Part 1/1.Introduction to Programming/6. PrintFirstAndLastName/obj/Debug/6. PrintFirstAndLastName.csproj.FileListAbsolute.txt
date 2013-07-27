@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\6. PrintFirstAndLastName\bin\Debug\_6.PrintFirstAndLastName.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\6. PrintFirstAndLastName\bin\Debug\_6.PrintFirstAndLastName.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\6. PrintFirstAndLastName\bin\Debug\_6.PrintFirstAndLastName.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\6. PrintFirstAndLastName\obj\Debug\_6.PrintFirstAndLastName.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\6. PrintFirstAndLastName\obj\Debug\_6.PrintFirstAndLastName.pdb

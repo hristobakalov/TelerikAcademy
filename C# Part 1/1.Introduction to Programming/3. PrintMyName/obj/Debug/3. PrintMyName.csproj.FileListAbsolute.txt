@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\3. PrintMyName\bin\Debug\_3.PrintMyName.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\3. PrintMyName\bin\Debug\_3.PrintMyName.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\3. PrintMyName\bin\Debug\_3.PrintMyName.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\3. PrintMyName\obj\Debug\_3.PrintMyName.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\1.Introduction to Programming\3. PrintMyName\obj\Debug\_3.PrintMyName.pdb

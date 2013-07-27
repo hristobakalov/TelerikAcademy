@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\11. DeckOfCards\bin\Debug\_11.DeckOfCards.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\11. DeckOfCards\bin\Debug\_11.DeckOfCards.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\11. DeckOfCards\bin\Debug\_11.DeckOfCards.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\11. DeckOfCards\obj\Debug\11. DeckOfCards.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\11. DeckOfCards\obj\Debug\_11.DeckOfCards.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\6. Loops\11. DeckOfCards\obj\Debug\_11.DeckOfCards.pdb

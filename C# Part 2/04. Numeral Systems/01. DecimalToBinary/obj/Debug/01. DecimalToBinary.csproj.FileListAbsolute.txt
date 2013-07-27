@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\01. DecimalToBinary\bin\Debug\_01.DecimalToBinary.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\01. DecimalToBinary\bin\Debug\_01.DecimalToBinary.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\01. DecimalToBinary\bin\Debug\_01.DecimalToBinary.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\01. DecimalToBinary\obj\Debug\01. DecimalToBinary.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\01. DecimalToBinary\obj\Debug\_01.DecimalToBinary.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\01. DecimalToBinary\obj\Debug\_01.DecimalToBinary.pdb

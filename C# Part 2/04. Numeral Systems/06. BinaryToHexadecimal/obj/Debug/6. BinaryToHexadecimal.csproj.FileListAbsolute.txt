@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\6. BinaryToHexadecimal\bin\Debug\_6.BinaryToHexadecimal.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\6. BinaryToHexadecimal\obj\Debug\6. BinaryToHexadecimal.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\6. BinaryToHexadecimal\bin\Debug\_6.BinaryToHexadecimal.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\6. BinaryToHexadecimal\bin\Debug\_6.BinaryToHexadecimal.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\6. BinaryToHexadecimal\obj\Debug\_6.BinaryToHexadecimal.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\04. Numeral Systems\6. BinaryToHexadecimal\obj\Debug\_6.BinaryToHexadecimal.pdb

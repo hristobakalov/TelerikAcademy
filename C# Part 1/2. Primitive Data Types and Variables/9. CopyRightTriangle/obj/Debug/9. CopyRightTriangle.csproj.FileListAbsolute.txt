@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\9. CopyRightTriangle\bin\Debug\_9.CopyRightTriangle.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\9. CopyRightTriangle\bin\Debug\_9.CopyRightTriangle.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\9. CopyRightTriangle\bin\Debug\_9.CopyRightTriangle.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\9. CopyRightTriangle\obj\Debug\_9.CopyRightTriangle.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\Primitive Data Types and Variables\9. CopyRightTriangle\obj\Debug\_9.CopyRightTriangle.pdb

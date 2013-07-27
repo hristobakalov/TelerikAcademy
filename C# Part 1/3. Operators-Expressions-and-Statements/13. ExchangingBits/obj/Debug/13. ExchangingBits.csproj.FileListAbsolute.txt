@@ -1,0 +1,9 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\13. ExchangingBits\bin\Debug\_13.ExchangingBits.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\13. ExchangingBits\bin\Debug\_13.ExchangingBits.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\13. ExchangingBits\bin\Debug\_13.ExchangingBits.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\13. ExchangingBits\obj\Debug\_13.ExchangingBits.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\13. ExchangingBits\obj\Debug\_13.ExchangingBits.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C#\3. Operators-Expressions-and-Statements\13. ExchangingBits\obj\Debug\13. ExchangingBits.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\13. ExchangingBits\bin\Debug\_13.ExchangingBits.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\13. ExchangingBits\obj\Debug\_13.ExchangingBits.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 1\3. Operators-Expressions-and-Statements\13. ExchangingBits\obj\Debug\_13.ExchangingBits.pdb
