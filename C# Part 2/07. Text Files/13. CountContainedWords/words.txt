@@ -1,0 +1,6 @@
+text
+count
+money
+funny
+shop
+police

@@ -1,0 +1,3 @@
+Here is some test, that tests different testing tools.
+If you like to test this test, it would be best to start testing the free test.
+So if you have tested the test, you could test some other tests on thistest.com.

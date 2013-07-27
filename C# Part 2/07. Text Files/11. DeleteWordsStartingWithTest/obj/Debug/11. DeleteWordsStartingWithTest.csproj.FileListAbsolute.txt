@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\11. DeleteWordsStartingWithTest\bin\Debug\_11.DeleteWordsStartingWithTest.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\11. DeleteWordsStartingWithTest\bin\Debug\_11.DeleteWordsStartingWithTest.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\11. DeleteWordsStartingWithTest\bin\Debug\_11.DeleteWordsStartingWithTest.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\11. DeleteWordsStartingWithTest\obj\Debug\11. DeleteWordsStartingWithTest.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\11. DeleteWordsStartingWithTest\obj\Debug\_11.DeleteWordsStartingWithTest.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\11. DeleteWordsStartingWithTest\obj\Debug\_11.DeleteWordsStartingWithTest.pdb

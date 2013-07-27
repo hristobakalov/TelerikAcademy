@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\08. WholeWordChange\bin\Debug\_08.WholeWordChange.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\08. WholeWordChange\bin\Debug\_08.WholeWordChange.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\08. WholeWordChange\bin\Debug\_08.WholeWordChange.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\08. WholeWordChange\obj\Debug\08. WholeWordChange.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\08. WholeWordChange\obj\Debug\_08.WholeWordChange.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\08. WholeWordChange\obj\Debug\_08.WholeWordChange.pdb

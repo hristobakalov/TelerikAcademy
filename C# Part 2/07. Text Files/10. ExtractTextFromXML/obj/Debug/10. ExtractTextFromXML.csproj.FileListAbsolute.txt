@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\10. ExtractTextFromXML\bin\Debug\_10.ExtractTextFromXML.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\10. ExtractTextFromXML\bin\Debug\_10.ExtractTextFromXML.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\10. ExtractTextFromXML\bin\Debug\_10.ExtractTextFromXML.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\10. ExtractTextFromXML\obj\Debug\_10.ExtractTextFromXML.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\10. ExtractTextFromXML\obj\Debug\_10.ExtractTextFromXML.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\13. CountContainedWords\bin\Debug\_13.CountContainedWords.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\13. CountContainedWords\bin\Debug\_13.CountContainedWords.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\13. CountContainedWords\bin\Debug\_13.CountContainedWords.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\13. CountContainedWords\obj\Debug\_13.CountContainedWords.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\13. CountContainedWords\obj\Debug\_13.CountContainedWords.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\13. CountContainedWords\obj\Debug\13. CountContainedWords.csprojResolveAssemblyReference.cache

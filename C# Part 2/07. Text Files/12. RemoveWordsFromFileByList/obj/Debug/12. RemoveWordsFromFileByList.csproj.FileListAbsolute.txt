@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\12. RemoveWordsFromFileByList\bin\Debug\_12.RemoveWordsFromFileByList.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\12. RemoveWordsFromFileByList\bin\Debug\_12.RemoveWordsFromFileByList.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\12. RemoveWordsFromFileByList\bin\Debug\_12.RemoveWordsFromFileByList.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\12. RemoveWordsFromFileByList\obj\Debug\12. RemoveWordsFromFileByList.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\12. RemoveWordsFromFileByList\obj\Debug\_12.RemoveWordsFromFileByList.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\07. Text Files\12. RemoveWordsFromFileByList\obj\Debug\_12.RemoveWordsFromFileByList.pdb
