@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\17. AddingHoursToDate\bin\Debug\_17.AddingHoursToDate.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\17. AddingHoursToDate\bin\Debug\_17.AddingHoursToDate.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\17. AddingHoursToDate\bin\Debug\_17.AddingHoursToDate.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\17. AddingHoursToDate\obj\Debug\17. AddingHoursToDate.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\17. AddingHoursToDate\obj\Debug\_17.AddingHoursToDate.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\17. AddingHoursToDate\obj\Debug\_17.AddingHoursToDate.pdb

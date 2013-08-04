@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\09. ReplacingForbiddenWords\bin\Debug\_09.ReplacingForbiddenWords.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\09. ReplacingForbiddenWords\bin\Debug\_09.ReplacingForbiddenWords.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\09. ReplacingForbiddenWords\bin\Debug\_09.ReplacingForbiddenWords.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\09. ReplacingForbiddenWords\obj\Debug\09. ReplacingForbiddenWords.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\09. ReplacingForbiddenWords\obj\Debug\_09.ReplacingForbiddenWords.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\09. ReplacingForbiddenWords\obj\Debug\_09.ReplacingForbiddenWords.pdb

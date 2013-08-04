@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\14. CreatingDictionary\bin\Debug\_14.CreatingDictionary.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\14. CreatingDictionary\bin\Debug\_14.CreatingDictionary.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\14. CreatingDictionary\bin\Debug\_14.CreatingDictionary.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\14. CreatingDictionary\obj\Debug\14. CreatingDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\14. CreatingDictionary\obj\Debug\_14.CreatingDictionary.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\14. CreatingDictionary\obj\Debug\_14.CreatingDictionary.pdb

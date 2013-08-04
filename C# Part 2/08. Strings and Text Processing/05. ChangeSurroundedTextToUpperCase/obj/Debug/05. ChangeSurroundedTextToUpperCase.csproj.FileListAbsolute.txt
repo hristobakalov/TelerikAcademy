@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\05. ChangeSurroundedTextToUpperCase\bin\Debug\_05.ChangeSurroundedTextToUpperCase.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\05. ChangeSurroundedTextToUpperCase\bin\Debug\_05.ChangeSurroundedTextToUpperCase.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\05. ChangeSurroundedTextToUpperCase\bin\Debug\_05.ChangeSurroundedTextToUpperCase.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\05. ChangeSurroundedTextToUpperCase\obj\Debug\_05.ChangeSurroundedTextToUpperCase.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\05. ChangeSurroundedTextToUpperCase\obj\Debug\_05.ChangeSurroundedTextToUpperCase.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\05. ChangeSurroundedTextToUpperCase\obj\Debug\05. ChangeSurroundedTextToUpperCase.csprojResolveAssemblyReference.cache

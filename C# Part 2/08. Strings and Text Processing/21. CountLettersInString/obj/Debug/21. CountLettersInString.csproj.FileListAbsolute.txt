@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\21. CountLettersInString\bin\Debug\_21.CountLettersInString.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\21. CountLettersInString\obj\Debug\21. CountLettersInString.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\21. CountLettersInString\bin\Debug\_21.CountLettersInString.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\21. CountLettersInString\bin\Debug\_21.CountLettersInString.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\21. CountLettersInString\obj\Debug\_21.CountLettersInString.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\21. CountLettersInString\obj\Debug\_21.CountLettersInString.pdb

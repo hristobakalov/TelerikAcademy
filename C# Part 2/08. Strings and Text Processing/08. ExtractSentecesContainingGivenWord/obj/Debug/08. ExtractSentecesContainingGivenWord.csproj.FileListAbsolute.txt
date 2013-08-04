@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\08. ExtractSentecesContainingGivenWord\bin\Debug\_08.ExtractSentecesContainingGivenWord.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\08. ExtractSentecesContainingGivenWord\bin\Debug\_08.ExtractSentecesContainingGivenWord.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\08. ExtractSentecesContainingGivenWord\bin\Debug\_08.ExtractSentecesContainingGivenWord.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\08. ExtractSentecesContainingGivenWord\obj\Debug\_08.ExtractSentecesContainingGivenWord.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\08. ExtractSentecesContainingGivenWord\obj\Debug\_08.ExtractSentecesContainingGivenWord.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\08. ExtractSentecesContainingGivenWord\obj\Debug\08. ExtractSentecesContainingGivenWord.csprojResolveAssemblyReference.cache

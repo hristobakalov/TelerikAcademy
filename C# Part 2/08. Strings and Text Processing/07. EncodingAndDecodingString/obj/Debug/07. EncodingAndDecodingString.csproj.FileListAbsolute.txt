@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\07. EncodingAndDecodingString\bin\Debug\_07.EncodingAndDecodingString.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\07. EncodingAndDecodingString\bin\Debug\_07.EncodingAndDecodingString.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\07. EncodingAndDecodingString\bin\Debug\_07.EncodingAndDecodingString.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\07. EncodingAndDecodingString\obj\Debug\07. EncodingAndDecodingString.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\07. EncodingAndDecodingString\obj\Debug\_07.EncodingAndDecodingString.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\07. EncodingAndDecodingString\obj\Debug\_07.EncodingAndDecodingString.pdb

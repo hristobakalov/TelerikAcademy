@@ -1,0 +1,1 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\18. ExtractEmailAddress\bin\Debug\_18.ExtractEmailAddress.exe.config

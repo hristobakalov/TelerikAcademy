@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\11. DecHexPercentageNotation\bin\Debug\_11.DecHexPercentageNotation.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\11. DecHexPercentageNotation\bin\Debug\_11.DecHexPercentageNotation.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\11. DecHexPercentageNotation\bin\Debug\_11.DecHexPercentageNotation.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\11. DecHexPercentageNotation\obj\Debug\11. DecHexPercentageNotation.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\11. DecHexPercentageNotation\obj\Debug\_11.DecHexPercentageNotation.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\11. DecHexPercentageNotation\obj\Debug\_11.DecHexPercentageNotation.pdb

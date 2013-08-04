@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\06. StringWithMaxTwentyChars\bin\Debug\_06.StringWithMaxTwentyChars.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\06. StringWithMaxTwentyChars\bin\Debug\_06.StringWithMaxTwentyChars.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\06. StringWithMaxTwentyChars\bin\Debug\_06.StringWithMaxTwentyChars.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\06. StringWithMaxTwentyChars\obj\Debug\_06.StringWithMaxTwentyChars.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\06. StringWithMaxTwentyChars\obj\Debug\_06.StringWithMaxTwentyChars.pdb

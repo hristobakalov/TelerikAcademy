@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\13. ReverseWordsInSentence\bin\Debug\_13.ReverseWordsInSentence.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\13. ReverseWordsInSentence\bin\Debug\_13.ReverseWordsInSentence.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\13. ReverseWordsInSentence\bin\Debug\_13.ReverseWordsInSentence.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\13. ReverseWordsInSentence\obj\Debug\13. ReverseWordsInSentence.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\13. ReverseWordsInSentence\obj\Debug\_13.ReverseWordsInSentence.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\13. ReverseWordsInSentence\obj\Debug\_13.ReverseWordsInSentence.pdb

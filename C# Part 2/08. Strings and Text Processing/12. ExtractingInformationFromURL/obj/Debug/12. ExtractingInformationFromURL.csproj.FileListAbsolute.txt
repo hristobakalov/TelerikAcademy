@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\12. ExtractingInformationFromURL\bin\Debug\_12.ExtractingInformationFromURL.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\12. ExtractingInformationFromURL\bin\Debug\_12.ExtractingInformationFromURL.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\12. ExtractingInformationFromURL\bin\Debug\_12.ExtractingInformationFromURL.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\12. ExtractingInformationFromURL\obj\Debug\12. ExtractingInformationFromURL.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\12. ExtractingInformationFromURL\obj\Debug\_12.ExtractingInformationFromURL.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\12. ExtractingInformationFromURL\obj\Debug\_12.ExtractingInformationFromURL.pdb

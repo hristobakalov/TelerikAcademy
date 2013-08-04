@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\03. CheckBrackets\bin\Debug\_03.CheckBrackets.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\03. CheckBrackets\bin\Debug\_03.CheckBrackets.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\03. CheckBrackets\bin\Debug\_03.CheckBrackets.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\03. CheckBrackets\obj\Debug\03. CheckBrackets.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\03. CheckBrackets\obj\Debug\_03.CheckBrackets.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\03. CheckBrackets\obj\Debug\_03.CheckBrackets.pdb

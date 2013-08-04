@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\22. CountWordsInString\bin\Debug\_22.CountWordsInString.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\22. CountWordsInString\bin\Debug\_22.CountWordsInString.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\22. CountWordsInString\bin\Debug\_22.CountWordsInString.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\22. CountWordsInString\obj\Debug\_22.CountWordsInString.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\22. CountWordsInString\obj\Debug\_22.CountWordsInString.pdb

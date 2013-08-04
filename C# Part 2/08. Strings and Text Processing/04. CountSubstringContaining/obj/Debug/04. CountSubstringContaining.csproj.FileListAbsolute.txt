@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\04. CountSubstringContaining\bin\Debug\_04.CountSubstringContaining.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\04. CountSubstringContaining\bin\Debug\_04.CountSubstringContaining.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\04. CountSubstringContaining\bin\Debug\_04.CountSubstringContaining.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\04. CountSubstringContaining\obj\Debug\_04.CountSubstringContaining.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\04. CountSubstringContaining\obj\Debug\_04.CountSubstringContaining.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\04. CountSubstringContaining\obj\Debug\04. CountSubstringContaining.csprojResolveAssemblyReference.cache

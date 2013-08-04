@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\25. ExtractTextFromHTMLCode\bin\Debug\_25.ExtractTextFromHTMLCode.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\25. ExtractTextFromHTMLCode\bin\Debug\_25.ExtractTextFromHTMLCode.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\25. ExtractTextFromHTMLCode\bin\Debug\_25.ExtractTextFromHTMLCode.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\25. ExtractTextFromHTMLCode\obj\Debug\25. ExtractTextFromHTMLCode.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\25. ExtractTextFromHTMLCode\obj\Debug\_25.ExtractTextFromHTMLCode.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\25. ExtractTextFromHTMLCode\obj\Debug\_25.ExtractTextFromHTMLCode.pdb

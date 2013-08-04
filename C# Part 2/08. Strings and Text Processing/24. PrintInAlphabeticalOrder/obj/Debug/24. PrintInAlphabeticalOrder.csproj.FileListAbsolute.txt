@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\24. PrintInAlphabeticalOrder\bin\Debug\_24.PrintInAlphabeticalOrder.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\24. PrintInAlphabeticalOrder\bin\Debug\_24.PrintInAlphabeticalOrder.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\24. PrintInAlphabeticalOrder\bin\Debug\_24.PrintInAlphabeticalOrder.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\24. PrintInAlphabeticalOrder\obj\Debug\24. PrintInAlphabeticalOrder.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\24. PrintInAlphabeticalOrder\obj\Debug\_24.PrintInAlphabeticalOrder.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\24. PrintInAlphabeticalOrder\obj\Debug\_24.PrintInAlphabeticalOrder.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\10. ConvertStringToCharacterLiterals\bin\Debug\_10.ConvertStringToCharacterLiterals.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\10. ConvertStringToCharacterLiterals\bin\Debug\_10.ConvertStringToCharacterLiterals.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\10. ConvertStringToCharacterLiterals\bin\Debug\_10.ConvertStringToCharacterLiterals.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\10. ConvertStringToCharacterLiterals\obj\Debug\_10.ConvertStringToCharacterLiterals.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\C# Part 2\08. Strings and Text Processing\10. ConvertStringToCharacterLiterals\obj\Debug\_10.ConvertStringToCharacterLiterals.pdb
