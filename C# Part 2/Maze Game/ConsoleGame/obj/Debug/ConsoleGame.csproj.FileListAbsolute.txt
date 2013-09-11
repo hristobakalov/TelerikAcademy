@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\TeamWorkRapunzel\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\TeamWorkRapunzel\ConsoleGame\obj\Debug\ConsoleGame.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\TeamWorkRapunzel\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\TeamWorkRapunzel\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\TeamWorkRapunzel\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\Ico\Documents\Visual Studio 2012\Projects\TeamWorkRapunzel\ConsoleGame\obj\Debug\ConsoleGame.pdb
